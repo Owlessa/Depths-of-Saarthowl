@@ -1,10 +1,11 @@
+<!-- GameplayChanges.md -->
 :owl: **The game has been modified, you have been warned.** :owl:
 ---------------
 **Note:** *This is not your moms Skyrim.*  
 It maybe be vanillaesque but there are significant changes, for the better in my owlpinion.
 
 :exclamation: Depths of Saarthowl:owl: **requires The Elder Scrolls V: Skyrim Anniversary Upgrade**:exclamation:  
-There will not be a verison compatible with older versions of Skyrim.
+There will not be a version compatible with older versions of Skyrim.
 
 
 ## Alternate Start  
@@ -13,8 +14,8 @@ There will not be a verison compatible with older versions of Skyrim.
 After character creation, hands off the keyboard! Please allow for a few minutes to let the MCM recording run, and get your game setup and ready to play. A pop up will let you know when it's run it's course and you're able to resume a hands on position.  
 After character creation you will start in the Adventurer's Dream. Here you will have a chance to gear up your character before starting the game. You will find armor in the wardrobe, weapons in the chest, spell tomes in the night stand and some misc items in the lockbox. Take as many or as few items as you want. It's your game, you do you.
 
-When you have everything you want talk to the little dragon perched on the lantern. You will be given a list of alternate starts to choose from.  
-Walking out the door without talking to the dragon, or chosing the XXX start, will lead to the default start with Helgen intact before the Imperials come through with their prisoners. With this start talk to Martha in the inn and tell her you would like to spend the night, but don't get to comfortable.
+When you have everything you want, talk to the little dragon perched on the lantern. You will be given a list of alternate starts to choose from.  
+Walking out the door without talking to the dragon, or chosing the XXX start, will lead to the default start with Helgen intact before the Imperials come through with their prisoners. With this start talk to Martha in the inn and tell her you would like to spend the night, but don't get too comfortable.
 
 
 ## Storyline Pacing
@@ -24,36 +25,36 @@ With At Your Own Pace, you can do the main quest, at your own pace. *Shocking. N
 Also spoiler, Farengar will be your new best bud.
 
 - **Main Quest** - After telling Jarl Balgruuf about the dragon that destroyed Helgen you are not forced to do Farengar's bidding. You can go off and do what you would like for however long you would like.  
-When you do come back to talk with Farengar, and he'll send you off to get the slab. When you bring it back no dragon spawn! Go do whatever you would like or talk to him again to start the next phase.  
-Everything will go as normal until you get to Ustengrav, there's a surprise in there for you! After wrapping that up go back and talk to your buddy Farengar. You'll get a letter to go talk to Delphine shortly after.
+When you do come back to talk with Farengar, he'll send you off to get the slab. When you bring it back no dragon spawn! Go do whatever you would like or talk to him again to start the next phase.  
+Everything will go as normal until you get to Ustengrav, there's a surprise in there for you! After wrapping that up, go back and talk to your buddy Farengar. You'll get a letter to go talk to Delphine shortly after.
 
-- **Dragonborn DLC** - Mind control be gone! Solstheim is now safe to sleep on. Explore the island at your leisure.
+- **Dragonborn DLC** - Mind control is gone! Solstheim is now safe to sleep on. Explore the island at your leisure.
 
-- **Thaneship** - You will now need to help out and make more friends in all holds to become a Thane.
+- **Thaneship** - You will now need to help out and make more friends in all Holds to become a Thane.
 
 - **College of Winterhold** - You are no longer forced to join the mages guild! Go see your buddy Farengar, there will be a note on his desk about help wanted in Saarthal.  
 There is still the option of becoming a student of the college, just talk to Mirabelle.
 
-- **Companions** - Becoming a werewolf is no longer a forced upon you. Turn Skjor down while still continuing the questline.  
+- **Companions** - Becoming a werewolf is no longer forced upon you. Turn Skjor down while still continuing the questline.  
 You can also speedrun the questline by discovering the secrets in Gallows Rock.
 
 - **Dark Brotherhood** - No more breaking and entering to hear the murderous plea of a small child! You're an assassin not a thief.  
 You can also give Astrid the chance to defend herself if you wish to take down the Dark Brotherhood.
 
-- **Thieves Guild** - No more being accosted by Brynjolf as an innocent lawabiding citizen, he will only approach players who have stolen ten or more items. Or you can just approach and talk to him yourself if you're into that kind of thing.  
+- **Thieves Guild** - No more being accosted by Brynjolf as an innocent law abiding citizen, he will only approach players who have stolen ten or more items. Or you can just approach and talk to him yourself if you're into that kind of thing.  
 You now also have the option to refuse to become Guildmaster or a Nightingale, while still progressing the questline.
 
 - **Misc** - A few small miscellaneous interactions have been changed.  
 In the Bards College, Viarmo will ignore you. You will need to speak with him to start the questline. No more items stuck in your inventory forever!  
 Shadr in Riften is no longer stuck waiting for you to talk to him.  
-Jaree-Ra will no longer offer you work everytime you walk past. He will only offer once and only to crimials.  
+Jaree-Ra will no longer offer you work everytime you walk past. He will only offer once and only to criminals.  
 
 
 ## Character Creation
 
 [**Aetherius**](https://www.nexusmods.com/skyrimspecialedition/mods/26686 "A race overhaul") - 
 
-[**Mundus**](https://www.nexusmods.com/skyrimspecialedition/mods/33411 "A standing stone overahul") - 
+[**Mundus**](https://www.nexusmods.com/skyrimspecialedition/mods/33411 "A standing stone overhaul") - 
 
 [**Adamant**](https://www.nexusmods.com/skyrimspecialedition/mods/30191 "A perk overhaul") - 
 
@@ -62,13 +63,13 @@ Jaree-Ra will no longer offer you work everytime you walk past. He will only off
 
 ## Combat
 
-[**Arena**](https://www.nexusmods.com/skyrimspecialedition/mods/33487 "An encounter zone overahul") - 
+[**Arena**](https://www.nexusmods.com/skyrimspecialedition/mods/33487 "An encounter zone overhaul") - 
 
 [**Blade and Blunt**](https://www.nexusmods.com/skyrimspecialedition/mods/34549 "A combat overahul") - 
 
 [**Dragon War**](https://www.nexusmods.com/skyrimspecialedition/mods/51310 "A dragon overahul") - 
 Dragon War makes dragon fights feel like boss fights!  
-I would highly reccomend waiting until at least level 10 before fighting the main quest first dragon.
+I would highly recommend waiting until at least level 10 before fighting the main quest first dragon.
 
 
 ## Magic
@@ -182,4 +183,3 @@ Along with Mysticism, DoS:owl: includes spell packs by Darenii to fill out the a
 
 
 - [**Gore**](https://www.nexusmods.com/skyrimspecialedition/mods/85298 "_") - 
-
