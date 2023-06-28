@@ -52,7 +52,7 @@ Jaree-Ra will no longer offer you work everytime you walk past. He will only off
 
 ## Character Creation
 
-[**Aetherius**](https://www.nexusmods.com/skyrimspecialedition/mods/26686 "A race overhaul") - 
+<!-- [**Aetherius**](https://www.nexusmods.com/skyrimspecialedition/mods/26686 "A race overhaul") - 
 
 [**Mundus**](https://www.nexusmods.com/skyrimspecialedition/mods/33411 "A standing stone overhaul") - 
 
@@ -182,4 +182,4 @@ Along with Mysticism, DoS:owl: includes spell packs by Darenii to fill out the a
 - [**Xelzaz**](https://www.nexusmods.com/skyrimspecialedition/mods/62893 "_") - 
 
 
-- [**Gore**](https://www.nexusmods.com/skyrimspecialedition/mods/85298 "_") - 
+- [**Gore**](https://www.nexusmods.com/skyrimspecialedition/mods/85298 "_") -  -->
